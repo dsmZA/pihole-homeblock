@@ -1,0 +1,9 @@
+# ------------------------------------[TITLE]---------------------------------------
+# Title: The Pihole homeblock list
+# URL: https://github.com/dsmZA/pihole-homeblock/raw/hosts
+# -------------------------------------[INFO]---------------------------------------
+#
+# Custom stuff to block for home list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 n-device-api.tplinkcloud.com
+0.0.0.0 security.iot.i.tplinknbu.com
